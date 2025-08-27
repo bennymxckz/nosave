@@ -1,4 +1,5 @@
-# Benny's NoSave
+![Benny's NoSave Banner](https://github.com/bennymxckz/nosave/blob/main/banner.png?raw=true)
+---
              
 A lightweight and robust AutoHotkey utility for Grand Theft Auto V that allows you to toggle the connection to Rockstar's servers, enabling a "no-save" mode.
 
@@ -15,7 +16,7 @@ A lightweight and robust AutoHotkey utility for Grand Theft Auto V that allows y
 
 ## How to Use
 
-1.  **Download:** Go to the [Releases page](link-to-your-releases-page) and download the latest `.ahk` file.
+1.  **Download:** Go to the [Releases page](https://github.com/bennymxckz/nosave/releases) and download the latest `.ahk` file.
 2.  **Install AutoHotkey:** If you don't have it, install **AutoHotkey** from their [official website](https://www.autohotkey.com/).
 3.  **Run as Administrator:** Right-click `benny_nosave.ahk` and select **"Run as administrator."**
 4.  **Use the Hotkeys:**
